@@ -9,3 +9,4 @@ Spis lekcji:
 3. Regresja liniowa, funkcja kosztu.
 4. Pandas, podstawowa analiza danych.
 5. Biblioteka sklearn, trenowanie algorytmów.
+Projekt: Uproszczona wersja konkursu Titanic z platformy Kaggle.
